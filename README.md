@@ -8,7 +8,7 @@
 - Data Scientist
 
 ## 💡 Interests
-- ML/DL Algorithms 
+- Image Classification
 - Semi-Supervised Learning
 - XAI(eXplainable AI)
 
