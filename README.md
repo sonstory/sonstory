@@ -1,6 +1,6 @@
 # 👋 Hi there
 #### Hi there! My name is Junyeong Son.
-- 👨‍🎓 I'm a BS student in Department of Industrial Engineering & Department of Statistics at Inha University
+- 👨‍🎓 I'm a BS student in Department of Industrial Management Engineering & Department of Statistics at Inha University
 - 🧸 I am working as an intern at the Technical Approach for Computing Trend Information & Convergence System Lab(TACTICS Lab)
 - 📩 How to reach me : contact me through email(junyoung5448@gmail.com)
 
