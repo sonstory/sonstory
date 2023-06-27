@@ -4,9 +4,6 @@
 - 🧸 I am working as an intern at the Technical Approach for Computing Trend Information & Convergence System Lab(TACTICS Lab)
 - 📩 How to reach me : contact me through email(junyoung5448@gmail.com)
 
-## 🏆 Goal
-- Data Scientist
-
 ## 💡 Interests
 - ML/DL Algorithms
 - Semi-Supervised Learning
