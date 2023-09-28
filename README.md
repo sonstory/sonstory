@@ -5,9 +5,9 @@
 - 📩 How to reach me : contact me through email(junyoung5448@gmail.com)
 
 ## 💡 Interests
-- Multi-Modal Learning
 - Computer Vision
-- Anomaly Detection
+- Image Anomaly Detection
+- Self-supervised Learning
 
 ## 📰 Blog
 <a href="https://sonstory.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://sonstory.tistory.com"/></a> <a href="https://blog.naver.com/sjy5448"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/sjy5448"/></a>
