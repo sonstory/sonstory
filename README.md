@@ -5,10 +5,10 @@
 - 📩 How to reach me : contact me through email(junyeong_son@korea.ac.kr)
 
 ## 💡 Interests
-- Lightweight Image Captioning Model
-- Image Anomaly Detection
-- Self-supervised Learning
 - Vision-Language Model
+- Lightweight Image Captioning Model
+- Parameter-Efficient Fine-Tuning
+- Visual Instruction Tuning
 
 ## 📰 Blog
 <a href="https://sonstory.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://sonstory.tistory.com"/></a> <a href="https://blog.naver.com/sjy5448"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/sjy5448"/></a>
