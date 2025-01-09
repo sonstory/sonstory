@@ -6,8 +6,8 @@
 
 ## 💡 Interests
 - Vision-Language Model
-- Parameter-Efficient Fine-Tuning
 - Zero-Shot Anomaly Detection
+- Prompt Learning
   
 ## 📰 Blog
 <a href="https://sonstory.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://sonstory.tistory.com"/></a> <a href="https://blog.naver.com/sjy5448"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/sjy5448"/></a>
